@@ -60,9 +60,9 @@
   <a href="mailto:suraj123patel123@gmail.com" target="_blank">
     <img align="left" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
   </a>
-  # <a href="https://x.com/surajpatel_1" target="_blank">
-  #   <img align="left" alt="Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-  # </a>
+  <a href="https://x.com/surajpatel_1" target="_blank">
+    <img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" />
+  </a>
 </p>
 
 <br><br>
