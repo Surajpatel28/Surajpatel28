@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Patel</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student | MERN Stack Developer | ML Enthusiast</h3>
+<h3 align="center">B.Tech CSE (AI & ML) Student | ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Welcome+to+my+GitHub+Profile!;I+%F0%9F%94%A5+Code+with+Curiosity!;Always+learning+something+new!+" alt="Typing SVG" />
